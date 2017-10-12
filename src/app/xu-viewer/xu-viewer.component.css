@@ -1,0 +1,21 @@
+.content-viewer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+    height: 100%;
+    padding: 15px;
+}
+
+.content-tweet,
+.content-button {
+    order: 0;
+    flex: 1 1 auto;
+    align-self: stretch;
+}
+
+.content-button {
+    flex: 0 1 auto;
+}

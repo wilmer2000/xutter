@@ -1,0 +1,21 @@
+app-xu-editor,
+app-xu-viewer {
+    order: 0;
+    flex: 1 1 auto;
+    align-self: stretch;
+}
+app-xu-viewer {
+    max-width: 400px;
+    width: 100%;
+}
+.content-editor-viewer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+    height: 100%;
+    width: 100%;
+    padding-top: 70px;
+}
