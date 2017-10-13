@@ -7,5 +7,5 @@ With Xutter you can say all you thinking on Twitter.
 1. git clone the project
 2. cd xutter
 3. npm install
-4. ng serve
+4. npm start / ng serve (requires Angular-CLI on your %path%)
 
