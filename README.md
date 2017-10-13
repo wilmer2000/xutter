@@ -1,4 +1,4 @@
-![Xutter](xutter/src/assets/img/logo-full.svg "Xutter")
+![Xutter](https://github.com/wilmer2000/xutter/blob/7d0b08eca3699054139ce8cde878bcadb8599b78/src/assets/img/logo-full.svg?raw=true "Xutter")
 
 # Xutter
 With Xutter you can say all you thinking on Twitter.
