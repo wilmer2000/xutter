@@ -1,0 +1,19 @@
+header {
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    width: auto;
+    padding: 10px 15px;
+
+    .logo {
+        display: block;
+        
+        img {
+            display: block;
+            height: 100%;
+            max-height: 50px;
+            width: auto;
+        }
+    }
+}

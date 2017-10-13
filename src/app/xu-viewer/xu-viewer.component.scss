@@ -1,0 +1,25 @@
+.content-viewer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+    height: 100%;
+    max-width: 500px;
+    padding: 30px;
+    overflow-x: auto;
+    background: linear-gradient(to right, #5c258d, #4389a2); 
+
+    .content-tweet,
+    .content-button {
+        order: 0;
+        flex: 1 1 auto;
+        align-self: stretch;
+    }
+    
+    .content-button {
+        flex: 0 1 auto;
+    }
+}
+
